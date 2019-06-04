@@ -1,5 +1,5 @@
 # Mueller-Report-Twitter-Data-Analysis
-A network of tweets that have the hashtag MuellerReport.
+A network of tweets that have the hashtag MuellerReport. Everything is explained in depth in the Analysis.pdf file
 
 <b>Written:</b><br>
 Analysis.pdf - excerpt of my written work from the analysis report<br>

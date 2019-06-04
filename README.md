@@ -17,6 +17,6 @@ TwitterNodesEdges.csv - data produced from twitterData.py<br>
 edges.csv - groups tweets by day tweeted<br>
 
 <b>Scripts:</b><br>
-twitterData.py - python script that looks at the bio of each tweeter and determines if they are a democrat or republican.<br>
+BioAnalyzer.py - python script that looks at the bio of each tweeter and determines if they are a democrat or republican.<br>
 NetworkBuilder.py - formats the data into a Gephi friendly format.<br>
 
